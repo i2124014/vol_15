@@ -234,10 +234,7 @@ margin: 0 auto;
 .company-column {
   display: flex;
 }
-.footer-column__item{
-  color: #000;
-  height: 20px;
-}
+
 /* 
 .menu-list__item:not(:first-child) {
   margin-left: 24px;
